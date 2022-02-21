@@ -3,7 +3,7 @@
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
-title: Parsa | Portfolio Jekyll Template
+title: Nailcouture | Portfolio Jekyll Template
 logo: /assets/images/logo.png # You can add own logo
 description: # Add your awesome description
 copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)
@@ -47,7 +47,7 @@ author:
 #-------------------------------
 # Contact Info
 contact:
-  email: example@ymail.com
+  email: nailcoutureblog@gmail.com
   phone: +90 000 333 22
   address:
     city: Sydney

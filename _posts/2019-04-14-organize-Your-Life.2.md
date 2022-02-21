@@ -4,7 +4,7 @@ title: "Organize Your Life With 10 Simple rule"
 date: 2019-04-14 13:46:10 +03:00
 description: "This is meta description"
 featured: true
-image: "assets/images/featured-post/post-3.jpg"
+image: "assets/images/nailart-post/blog-shimmer.jpg"
 categories: 
   - "Fashion"
 tags:
